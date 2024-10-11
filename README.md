@@ -54,7 +54,7 @@ Clone the Repository: Clone this project to your local machine.
 Set Up MySQL: Ensure that you have MySQL installed on your system.
 
 Import the SQL Script: Run the provided SQL script to create the database and tables, and insert the dummy data.
-mysql -u [username] -p < hms_database.sql
+mysql -u [username] -p < hms-project.sql
 
 Interact with the Database: Use MySQL queries to interact with the database, manage data, and generate reports based on hospital operations.
 
